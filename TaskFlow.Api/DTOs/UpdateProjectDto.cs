@@ -2,7 +2,7 @@
 
 namespace TaskFlow.Api.DTOs;
 
-public class CreateProjectDto
+public class UpdateProjectDto
 {
     [Required]
     [StringLength(100)]
