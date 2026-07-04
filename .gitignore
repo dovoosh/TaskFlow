@@ -1,0 +1,32 @@
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Environment
+.env
+.env.*
+
+# Build
+dist/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
